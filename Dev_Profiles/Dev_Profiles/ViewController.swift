@@ -14,8 +14,8 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
-        logo.layer.cornerRadius = logo.frame.size.width/2
-        logo.clipsToBounds = true
+        //logo.layer.cornerRadius = logo.frame.size.width/2
+        //logo.clipsToBounds = true
     }
 
     override func didReceiveMemoryWarning() {
